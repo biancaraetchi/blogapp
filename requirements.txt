@@ -1,0 +1,4 @@
+sqlmodel
+fastapi
+alembic
+fastapi_crudrouter
